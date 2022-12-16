@@ -1,0 +1,70 @@
+body {
+    background-color: orange;
+}
+
+.page {
+    margin-left: 10%;
+    padding-bottom: 1%;
+    width: 80%; 
+    background-color: white;
+}
+
+.details {
+    border-bottom: 5px solid black;
+}
+
+.pages {
+
+    margin: 95px;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.icon {
+    display: inline;
+    margin-left: 15%;
+
+}
+
+.name {
+
+    float: right;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+
+pre.items {
+    line-height: normal;
+}
+
+.span {
+    width: 9%;
+    float: right;
+    background-color: black;
+    color: bisque;
+}
+
+span.detail {
+    float: right;
+    margin-right: -10%;
+    margin-top: 7.4%;
+}
+
+.end {
+    margin-bottom: 15;
+}
+
+#dutch {
+    margin-left: 6%;
+}
+
+#english {
+    margin-left: 14%;
+}
+
+#german {
+    margin-left: 14%;
+}
+#soft{
+    margin-left: 6%;
+}
