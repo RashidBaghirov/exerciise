@@ -21,6 +21,7 @@ body {
 }
 
 .icon {
+    width: 250px;
     display: inline;
     margin-left: 15%;
 
