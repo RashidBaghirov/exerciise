@@ -23,15 +23,18 @@ body {
 .icon {
     width: 250px;
     display: inline;
-    margin-left: 15%;
+    margin-left: 5%;
 
 }
 
 .name {
 
+    font-style:inherit;
+    font-size: 70px;
     float: right;
-    margin-right: 25%;
-    margin-top: 5%;
+    margin-right: 2%;
+   margin-top: 10%;
+   font-family:Arial, Helvetica, sans-serif
 }
 
 pre.items {
@@ -39,16 +42,18 @@ pre.items {
 }
 
 .span {
-    width: 9%;
+    width: 10%;
     float: right;
     background-color: black;
     color: bisque;
 }
 
 span.detail {
+    font-size: 25px;
+    font-style:italic;
     float: right;
-    margin-right: -10%;
-    margin-top: 7.4%;
+    margin-right: 3%;
+    margin-top:-12%;
 }
 
 .end {
@@ -60,12 +65,12 @@ span.detail {
 }
 
 #english {
-    margin-left: 14%;
+    margin-left: 15%;
 }
 
 #german {
-    margin-left: 14%;
+    margin-left: 15%;
 }
 #soft{
-    margin-left: 6%;
+    margin-left: 7%;
 }
