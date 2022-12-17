@@ -73,3 +73,8 @@ span.detail {
 #soft{
     margin-left: 7%;
 }
+
+.softt::first-letter{
+    font-size: 20px;
+}
+
