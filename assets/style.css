@@ -1,9 +1,11 @@
 body {
-    background-color: orange;
+    background-color: rgb(80, 79, 77);
 }
 
 .page {
     margin: 0px auto;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLWigOi2kg_TW-fh7yXr4cg7zvGDajQomamQ&usqp=CAU);
+    background-size: cover;
     padding-bottom: 1%;
     width: 1200px; 
     background-color: white;
@@ -44,7 +46,7 @@ pre.items {
     width: 10%;
     float: right;
     background-color: black;
-    color: bisque;
+    color: rgb(197, 188, 180);
 }
 
 span.detail {
