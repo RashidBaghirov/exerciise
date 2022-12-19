@@ -76,7 +76,7 @@ span.detail {
     margin-left: 7%;
 }
 
-.softt::first-letter{
-    font-size: 20px;
+.softt{
+    font-variant: small-caps;
 }
 
